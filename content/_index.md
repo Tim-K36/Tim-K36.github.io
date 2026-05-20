@@ -1,5 +1,5 @@
 ---
-title: "Tim's Docs"
+title: "Home"
 ---
 
 # $whoami

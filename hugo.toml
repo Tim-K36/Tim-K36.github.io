@@ -17,9 +17,8 @@ sectionPagesMenu = "main"
   palette = "tender"
 
 [params.about]
-  title = "About"
-  description = "Research, Writeups and more." 
-  logo = ""
+  title = "~/tim-k36"
+  description = "Security Researcher who loves coffee."
 
 [[params.socialLinks]]
   icon = "fa-brands fa-github"
